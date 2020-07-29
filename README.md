@@ -1,5 +1,5 @@
-### Hi there 👋😄🤔🌱
-### ✨The road to cloud✨
+### 👋😄 Hi there 🤔🌱
+### ✨ The road to cloud ✨
 
 <!--
 **448847482/448847482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
